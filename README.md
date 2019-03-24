@@ -1,6 +1,9 @@
 # ndsc_beginner
 https://www.kaggle.com/c/ndsc-beginner/
 
+# Lesson learned
+https://medium.com/@steve7an/what-did-i-learn-from-my-first-kaggle-competition-e06060311ea9
+
 ## 31st place solution
 For feature engineering, removed any long numeric string from the title and separated into three categories for Beauty, Fashion and Mobile for the training and prediction to simplify the prediction problem.
 
